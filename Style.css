@@ -82,7 +82,11 @@
 .sp7 a{
     text-decoration: none;
     color: #6DA01E;
-    align-items: center;
+   /* align-items: center;*/
+    width: 160px;
+    height: 24px;
+    top: 12px;
+    left: 73px;
 }
 
 p a{
@@ -95,7 +99,9 @@ p a{
 }
 
 .google{
-    margin-left: 300;
-    
-    
+    width: 16.74px;
+    height: 12.42px;
+    top: 1.5px;
+    left: 2.64px;
+    align-items: flex-end;
 }
