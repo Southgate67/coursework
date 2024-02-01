@@ -28,7 +28,7 @@
 }
 
 .lotion-form{
-    
+    position: relative;
     width: 589px;
     height: 883px;
     top: 70px;
