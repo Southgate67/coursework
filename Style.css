@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }  
 
-/* body{
-    background-image: url(../Image/Homepage.png);
-} */
+body{
+    background-image: url(Homepage.png);
+}
 
 .main{
     
