@@ -6,6 +6,9 @@
 
 body{
     background-image: url(Homepage.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .main{
